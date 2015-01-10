@@ -9,5 +9,5 @@ alias yi="sudo yum -y install"
 alias ys="sudo yum search"
 alias yum="sudo yum"
 alias root="sudo su -"
-alias xr="xrandr --output eDP1 --primary --auto --output DP2 --auto --left-of eDP1"
+alias xr="xrandr --output eDP1 --primary --auto --output DP1-1 --auto --left-of eDP1"
 
